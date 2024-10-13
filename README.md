@@ -1,3 +1,5 @@
+![Alt text](CLOUDDiagram.jpg)
+
 # Hosting a WordPress Website on AWS using EC2 and 3-Tier VPC Architecture
 
 This repository contains scripts and configuration details for deploying a highly available and scalable WordPress site on AWS using a 3-tier VPC architecture. The setup includes EC2 instances for the web and application layers, RDS for the database layer, EFS for shared file storage, and an Application Load Balancer for managing traffic across multiple availability zones.
